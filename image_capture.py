@@ -1,3 +1,5 @@
+# camera stream
+
 import cv2
 vs = cv2.VideoCapture(0) # initialize camera
 
